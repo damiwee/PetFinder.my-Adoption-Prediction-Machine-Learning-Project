@@ -22,7 +22,7 @@ Describe the dataset you used for this project. Include details like:
 
 * Source of the data (https://www.kaggle.com/c/petfinder-adoption-prediction/data)
 
-* Data Fields:
+**Data Fields:**
 - PetID - Unique hash ID of pet profile
 - AdoptionSpeed - Categorical speed of adoption. Lower is faster. This is the value to predict. See below section for more info.
 - Type - Type of animal (1 = Dog, 2 = Cat)
