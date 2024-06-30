@@ -17,9 +17,6 @@ This project explores the use of machine learning to predict pet adoption rates 
 The goal of this project is to develop a machine learning model that can predict whether a pet listed on PetFinder.my will be adopted or not. This can be valuable for animal shelters and rescue organizations to optimize their adoption strategies.
 
 ## Dataset
-
-Describe the dataset you used for this project. Include details like:
-
 * Source of the data (https://www.kaggle.com/c/petfinder-adoption-prediction/data)
 
 **Data Fields:**
