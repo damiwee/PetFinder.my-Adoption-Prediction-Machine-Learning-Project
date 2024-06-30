@@ -77,8 +77,8 @@ The goal of this project is to develop a machine learning model that can predict
 
 
 ## Results
-Test Loss: 0.5169
-Test Accuracy: 0.7430
-Test Precision: 0.7762
-Test Recall: 0.9170
-Test AUC: 0.7148
+- Test Loss: 0.5169
+- Test Accuracy: 0.7430
+- Test Precision: 0.7762
+- Test Recall: 0.9170
+- Test AUC: 0.7148
