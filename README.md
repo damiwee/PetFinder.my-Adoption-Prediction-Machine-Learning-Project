@@ -45,7 +45,7 @@ The goal of this project is to develop a machine learning model that can predict
 - PhotoAmt - Total uploaded photos for this pet
 - Description - Profile write-up for this pet. The primary language used is English, with some in Malay or Chinese.
 
-* Pre-processing steps taken:
+**Pre-processing steps taken:**
 - Basic data cleaning such as renaming feature columns, mapping code IDs, handling missing values and dropping features/ data points where applicable
 - Data Engineering new features such as binning (discretization) to transform some features with a very high number of unique values into categorical features with fewer categories. Also engineered some other boolean features based on whether pet has name etc.
 - Preprocessing for model ingestion: Normalization for numerical features and One hot encoding for categorical features.
